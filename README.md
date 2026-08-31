@@ -75,7 +75,7 @@ zhongyanBisai/
 │   ├── healthreportdialog.*  # 健康报告对话框
 │   ├── zhongyan.pro          # Qt 项目文件
 │   └── android/              # Android 配置
-├── old/                      # 历史版本备份
+├── old/                      # 硬件主程序
 ├── .gitignore                # Git 忽略规则
 └── README.md                 # 项目说明文档
 ```
@@ -210,10 +210,6 @@ timestamp,adc,voltage_mv,resistance_ohm,force_n,breath_status,anomaly_score,aler
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
-
-## 👥 团队成员
-
-- **Moon2003-pang** - 项目负责人
 
 ## 📞 联系方式
 
