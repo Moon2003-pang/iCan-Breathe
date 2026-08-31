@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Qt generated files
+*.pro.user
+*.qmake.stash
+Makefile
+Makefile.*
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug/Release folders
+Debug/
+Release/
